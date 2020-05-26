@@ -10,11 +10,11 @@
 </script>
 
 <main>
-  <h1>1Svelte + Node.js API</h1>
+  <h1>Svelte + Node.js API</h1>
   <h2>
     Deployed with
     <a href="https://zeit.co/docs" target="_blank" rel="noreferrer noopener">
-      ZEIT Now
+      22ZEIT Now
     </a>
     !
   </h2>
